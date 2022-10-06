@@ -8,7 +8,8 @@ Open grants for integrating glTF extension: https://app.dework.xyz/neon-buidl/me
 - [x] JanusWeb: https://madjin.github.io/openbrush_tests/janus/
 - [x] Hyperfy: https://hyperfy.io/openbrush
 - [ ] Webaverse: 
-- [ ] Mozilla Hubs:
+- [ ] Mozilla Hubs: https://github.com/mozilla/hubs/issues/5738
+- [ ] Spoke: https://github.com/mozilla/Spoke/issues/1259
 - [ ] Threejs:  
 - [ ] Monaverse:
 - [ ] oncyber:
